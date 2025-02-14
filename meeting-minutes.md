@@ -8,6 +8,7 @@ todo
 
 Endomondo Trajectories Dataset 
 https://www.selectdataset.com/dataset/50a3c3eefba4873f836ada3ef0bafb02
+https://cseweb.ucsd.edu/~jmcauley/datasets.html#endomondo
 
 # 以下是2024年会议
 优化NAFNet 在 low-level 任务性能（降低计算量和内存，比如：将卷积替换为加、减法），保持精度
